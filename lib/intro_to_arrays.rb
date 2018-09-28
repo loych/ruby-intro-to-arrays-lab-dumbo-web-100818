@@ -1,4 +1,5 @@
 def instantiate_new_array(array)
-  Array.
+  array.new
 end
-puts instantiate_new_array
+
+def in
